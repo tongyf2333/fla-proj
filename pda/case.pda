@@ -1,0 +1,17 @@
+#Q = {q0, q1, reject}
+
+#S = {( , )}
+
+#G = {z, (}
+
+#q0 = q0
+
+#z0 = z
+
+#F = {q0}
+
+q0 ( z q1 (z     
+q0 ) z reject z
+q1 ( ( q1 ((
+q1 ) ( q1 _
+q1 _ z q0 z

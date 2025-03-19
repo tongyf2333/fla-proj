@@ -1,0 +1,1 @@
+/usr/bin/c++ "CMakeFiles/fla.dir/fla-project/main.cpp.o" "CMakeFiles/fla.dir/fla-project/pda.cpp.o" "CMakeFiles/fla.dir/fla-project/tm.cpp.o" -o /home/tongyf/Desktop/fla_proj/project-2024/bin/fla
